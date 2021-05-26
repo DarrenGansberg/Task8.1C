@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouTube Player</string>
+    <string name="youtube_url">Youtube URL</string>
+    <string name="play">Play</string>
+    <string name="video_play_error">There was a problem playing the video.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
